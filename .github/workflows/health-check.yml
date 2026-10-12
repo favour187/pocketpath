@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  URL: https://pocketpath-ctbb.onrender.com/api/health
+  URL: https://pocketpath-9pfj.onrender.com/api/health
   WINDOW_START: 2026-10-02
   WINDOW_END: 2026-10-10
 
